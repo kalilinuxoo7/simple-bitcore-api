@@ -3,7 +3,7 @@
 var should = require('should');
 var sinon = require('sinon');
 var MessagesController = require('../lib/messages');
-var bitcore = require('amigo-bitcore-lib');
+var bitcore = require('simple-bitcore-lib');
 var _ = require('lodash');
 
 describe('Messages', function() {

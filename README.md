@@ -1,8 +1,8 @@
 # Insight API
 
-A Amigo blockchain REST and web socket API service for [Bitcore Node](https://github.com/amigochain/amigo-bitcore-node).
+A Simple blockchain REST and web socket API service for [Bitcore Node](https://github.com/kalilinuxoo7/simple-bitcore-node).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/amigochain/amigo-insight-ui.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/kalilinuxoo7/simple-insight-ui.
 
 ## Getting Started
 
@@ -14,11 +14,11 @@ bitcore-node install insight-api
 bitcore-node start
 ```
 
-The API endpoints will be available by default at: `http://localhost:3001/amigo-insight-api/`
+The API endpoints will be available by default at: `http://localhost:3001/simple-insight-api/`
 
 ## Prerequisites
 
-- [Bitcore Node 3.x](https://github.com/amigochain/amigo-bitcore-node)
+- [Bitcore Node 3.x](https://github.com/kalilinuxoo7/simple-bitcore-node)
 
 **Note:** You can use an existing Bitcoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
 

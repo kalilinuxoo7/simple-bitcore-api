@@ -1,8 +1,8 @@
 {
-  "name": "amigo-insight-api",
-  "description": "A Amigo blockchain REST and web socket API service for Bitcore Node.",
+  "name": "simple-insight-api",
+  "description": "A Simple blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.4",
-  "repository": "git://github.com/amigochain/amigo-insight-api.git",
+  "repository": "git://github.com/simplechain/simple-insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,9 +38,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/amigochain/amigo-insight-api/issues"
+    "url": "https://github.com/kalilinuxoo7/simple-insight-api/issues"
   },
-  "homepage": "https://github.com/amigochain/amigo-insight-api",
+  "homepage": "https://github.com/kalilinuxoo7/simple-insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "amigo-bitcore-lib": "git://github.com/amigochain/amigo-bitcore-lib",
-    "amigo-bitcore-message": "git://github.com/amigochain/amigo-bitcore-message",
+    "simple-bitcore-lib": "git://github.com/simplechain/simple-bitcore-lib",
+    "simple-bitcore-message": "git://github.com/simplechain/simple-bitcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
