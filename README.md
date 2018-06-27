@@ -1,6 +1,6 @@
 # Insight API
 
-A Simple blockchain REST and web socket API service for [Bitcore Node](https://github.com/kalilinuxoo7/simple-bitcore-node).
+A Particl blockchain REST and web socket API service for [Bitcore Node](https://github.com/kalilinuxoo7/simple-bitcore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/kalilinuxoo7/simple-insight-ui.
 
