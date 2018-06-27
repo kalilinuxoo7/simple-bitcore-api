@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "simple-bitcore-lib": "file:../simple-bitcore-lib",
-    "simple-bitcore-message": "file:../simple-bitcore-message",
+    "simple-bitcore-lib": "git://github.com/kalilinuxoo7/simple-bitcore-lib",
+    "simple-bitcore-message": "git://github.com/kalilinuxoo7/simple-bitcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
